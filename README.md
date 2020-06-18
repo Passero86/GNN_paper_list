@@ -1,5 +1,6 @@
 # Papers
 
+## Technical papers
 ## 2020
 | Title  |  Conference/Journal          | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
@@ -25,6 +26,7 @@
 | Title  |  Conference/Journal          | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
 | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | ICLR | [Code](https://github.com/matenure/FastGCN)   | 
+| Graph Attention Networks | ICLR | [Code](https://github.com/PetarV-/GAT)   | 
 
 
 ## 2017
@@ -32,6 +34,13 @@
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
 | Semi-Supervised Classification with Graph Convolutional Networks | ICLR | [Code](https://github.com/tkipf/gcn)   | 
 | Inductive Representation Learning on Large Graphs |NIPS|http://snap.stanford.edu/graphsage/|
+
+## Surveys
+| Title  |
+|:-----------------------------------------------------------------------------------:|
+| Deep Learning on Graphs-A Survey | 
+| A Comprehensive Survey on Graph Neural Networks |
+| Graph Neural Networks-A Review of Methods and Applications|
 
 
 # Other resources
